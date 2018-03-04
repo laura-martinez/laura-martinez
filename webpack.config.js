@@ -1,28 +1,28 @@
-const fs = require('fs');
-const path = require('path');
-const CopyWebpackPlugin = require('copy-webpack-plugin');
-const ProgressPlugin = require('webpack/lib/ProgressPlugin');
-const CircularDependencyPlugin = require('circular-dependency-plugin');
-const HtmlWebpackPlugin = require('html-webpack-plugin');
+const fs = require('fs')
+const path = require('path')
+const CopyWebpackPlugin = require('copy-webpack-plugin')
+const ProgressPlugin = require('webpack/lib/ProgressPlugin')
+const CircularDependencyPlugin = require('circular-dependency-plugin')
+const HtmlWebpackPlugin = require('html-webpack-plugin')
 const rxPaths = require('rxjs/_esm5/path-mapping');
 const autoprefixer = require('autoprefixer');
 const postcssUrl = require('postcss-url');
 const cssnano = require('cssnano');
-const customProperties = require('postcss-custom-properties');
+const customProperties = require('postcss-custom-properties')
 
-const { NoEmitOnErrorsPlugin, SourceMapDevToolPlugin, NamedModulesPlugin } = require('webpack');
-const { NamedLazyChunksWebpackPlugin, BaseHrefWebpackPlugin } = require('@angular/cli/plugins/webpack');
-const { CommonsChunkPlugin } = require('webpack').optimize;
-const { AngularCompilerPlugin } = require('@ngtools/webpack');
+const { NoEmitOnErrorsPlugin, SourceMapDevToolPlugin, NamedModulesPlugin } = require('webpack')
+const { NamedLazyChunksWebpackPlugin, BaseHrefWebpackPlugin } = require('@angular/cli/plugins/webpack')
+const { CommonsChunkPlugin } = require('webpack').optimize
+const { AngularCompilerPlugin } = require('@ngtools/webpack')
 
-const nodeModules = path.join(process.cwd(), 'node_modules');
-const realNodeModules = fs.realpathSync(nodeModules);
-const genDirNodeModules = path.join(process.cwd(), 'src', '$$_gendir', 'node_modules');
-const entryPoints = ["inline","polyfills","sw-register","styles","vendor","main"];
-const minimizeCss = false;
-const baseHref = "";
-const deployUrl = "";
-const projectRoot = "/Users/fdefreitas/Development/projects/laura-photography-website";
+const nodeModules = path.join(process.cwd(), 'node_modules')
+const realNodeModules = fs.realpathSync(nodeModules)
+const genDirNodeModules = path.join(process.cwd(), 'src', '$$_gendir', 'node_modules')
+const entryPoints = ["inline","polyfills","sw-register","styles","vendor","main"]
+const minimizeCss = false
+const baseHref = ""
+const deployUrl = "https://fdefreitas.github.io/laura-martinez-photography/"
+const projectRoot = "/Users/fdefreitas/Development/projects/laura-photography-website"
 const postcssPlugins = function () {
         // safe settings based on: https://github.com/ben-eb/cssnano/issues/358#issuecomment-283696193
         const importantCommentRe = /@preserve|@licen[cs]e|[@#]\s*source(?:Mapping)?URL|^!/i;
@@ -111,7 +111,7 @@ module.exports = {
     ]
   },
   "output": {
-    "path": path.join(process.cwd(), "docs"),
+    "path": path.join(process.cwd(), "dist"),
     "filename": "[name].bundle.js",
     "chunkFilename": "[id].chunk.js",
     "crossOriginLoading": false
@@ -441,7 +441,7 @@ module.exports = {
         }
     }
     }),
-    new BaseHrefWebpackPlugin({}),
+    new BaseHrefWebpackPlugin({ baseHref: '/' }),
     new CommonsChunkPlugin({
       "name": [
         "inline"
