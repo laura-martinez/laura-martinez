@@ -1,0 +1,21 @@
+<div *ngIf="project" class="slides-container">
+  <ul class="slides">
+    <li *ngFor="let picture of project.collection; let i=index" class="slide">
+      <img [srcset]="picture.source_set | picSrcSet" [alt]="picture.name" (click)="openModal(picture)">
+    </li>
+  </ul>
+  <div class="caption">
+	  <div class="content has-text-centered">
+		<h3 class="title">{{project.name}}</h3>
+		<p class="subtitle quote has-text-centered">{{project.description}}</p>
+	  </div>
+  </div>
+
+  <div *ngIf="isModalVisible" class="modal" [class.is-active]="isModalVisible">
+    <div class="modal-background" (click)="closeModal()"></div>
+    <div class="modal-content">
+      <img class="modal-img" [srcset]="modalPic.source_set | picSrcSet" [alt]="modalPic.name" />
+    </div>
+    <button class="modal-close is-large" aria-label="close" (click)="closeModal()"></button>
+  </div>
+</div>
