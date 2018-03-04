@@ -1,0 +1,17 @@
+<div class="columns is-multiline">
+  <div class="column is-6" *ngFor="let publication of publications">
+    <div class="card is-full-height">
+      <div class="card-image">
+        <a [href]="publication.url" target="blank" rel="noopener noreferrer">
+          <img [srcset]="publication.source_set | picSrcSet" [alt]="publication.name">
+        </a>
+      </div>
+      <div class="card-content">
+        <a [href]="publication.url" target="blank" rel="noopener noreferrer">
+          <h3 class="title is-5 has-margin-bottom">{{publication.name}}</h3>
+        </a>
+        <p class="">{{publication.description}}</p>
+      </div>
+    </div>
+  </div>
+</div>
