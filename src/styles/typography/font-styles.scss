@@ -1,0 +1,7 @@
+@mixin is-serif {
+	font-family: 'Libre Baskerville', serif;
+}
+
+.is-serif {
+	@include is-serif;
+}
