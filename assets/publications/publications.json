@@ -1,0 +1,30 @@
+{
+  "publications": [{
+      "name": "Mocking The Devil By Laura Isabel Martínez",
+      "url": "https://www.shutyouraperture.com/mocking-the-devil-by-laura-isabel-martinez/",
+      "source_set": [
+        "assets/publications/mocking-the-devil.jpg",
+        "assets/publications/mocking-the-devil@2x.jpg"
+      ],
+      "description": "A beautiful tradition of my country still performing The Dancing Devils of Naiguata and I ask you: how many of you want to dance to mock the devil?"
+    },
+    {
+      "name": "Portrait Javier Garrote",
+      "url": "https://issuu.com/expertosenartefdconsulting/docs/eeam_14",
+      "source_set": [
+        "assets/publications/javier-garrote.jpg",
+        "assets/publications/javier-garrote@2x.jpg"
+      ],
+      "description": "Portrait of Javier Garrote, plastic artist from Madrid, for \"Expertos en Arte FD Magazine\", pages 12-13"
+	},
+	{
+      "name": "EFTI Students Portfolio - Laura Martinez",
+      "url": "http://www.efti.es/la-escuela/alumnos/laura-martinez-da-silva",
+      "source_set": [
+        "assets/publications/avatar-laura.jpg",
+        "assets/publications/avatar-laura@2x.jpg"
+      ],
+      "description": ""
+    }
+  ]
+}

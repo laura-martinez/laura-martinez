@@ -1,0 +1,724 @@
+{
+	"projects": [
+		{
+			"name": "Cristina",
+			"id": "cristina",
+			"description": "Placeholder description",
+			"date": "",
+			"type": "portrait",
+			"collection": [
+				{
+					"name": "cristina 25",
+					"resource_name": "cristina_25",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/cristina/cristina_25.png",
+						"assets/projects/cristina/cristina_25@2x.png",
+						"assets/projects/cristina/cristina_25@3x.png"
+					]
+				},
+				{
+					"name": "cristina 35",
+					"resource_name": "cristina_35",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/cristina/cristina_35.png",
+						"assets/projects/cristina/cristina_35@2x.png",
+						"assets/projects/cristina/cristina_35@3x.png"
+					]
+				},
+				{
+					"name": "cristina 38",
+					"resource_name": "cristina_38",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/cristina/cristina_38.png",
+						"assets/projects/cristina/cristina_38@2x.png",
+						"assets/projects/cristina/cristina_38@3x.png"
+					]
+				},
+				{
+					"name": "cristina 40",
+					"resource_name": "cristina_40",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/cristina/cristina_40.png",
+						"assets/projects/cristina/cristina_40@2x.png",
+						"assets/projects/cristina/cristina_40@3x.png"
+					]
+				},
+				{
+					"name": "cristina 60",
+					"resource_name": "cristina_60",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/cristina/cristina_60.png",
+						"assets/projects/cristina/cristina_60@2x.png",
+						"assets/projects/cristina/cristina_60@3x.png"
+					]
+				},
+				{
+					"name": "cristina 62",
+					"resource_name": "cristina_62",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/cristina/cristina_62.png",
+						"assets/projects/cristina/cristina_62@2x.png",
+						"assets/projects/cristina/cristina_62@3x.png"
+					]
+				}
+			]
+		},
+		{
+			"name": "Ana",
+			"id": "ana",
+			"description": "Placeholder description",
+			"date": "",
+			"type": "portrait",
+			"collection": [
+				{
+					"name": "ana 1",
+					"resource_name": "ana_1",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/ana/ana_1.png",
+						"assets/projects/ana/ana_1@2x.png",
+						"assets/projects/ana/ana_1@3x.png"
+					]
+				},
+				{
+					"name": "ana 2",
+					"resource_name": "ana_2",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/ana/ana_2.png",
+						"assets/projects/ana/ana_2@2x.png",
+						"assets/projects/ana/ana_2@3x.png"
+					]
+				},
+				{
+					"name": "ana 3",
+					"resource_name": "ana_3",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/ana/ana_3.png",
+						"assets/projects/ana/ana_3@2x.png",
+						"assets/projects/ana/ana_3@3x.png"
+					]
+				}
+			]
+		},
+		{
+			"name": "Viviana",
+			"id": "viviana",
+			"description": "Placeholder description",
+			"date": "",
+			"type": "portrait",
+			"collection": [
+				{
+					"name": "viviana 20",
+					"resource_name": "viviana_20",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/viviana/viviana_20.png",
+						"assets/projects/viviana/viviana_20@2x.png",
+						"assets/projects/viviana/viviana_20@3x.png"
+					]
+				},
+				{
+					"name": "viviana 21",
+					"resource_name": "viviana_21",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/viviana/viviana_21.png",
+						"assets/projects/viviana/viviana_21@2x.png",
+						"assets/projects/viviana/viviana_21@3x.png"
+					]
+				},
+				{
+					"name": "viviana 22",
+					"resource_name": "viviana_22",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/viviana/viviana_22.png",
+						"assets/projects/viviana/viviana_22@2x.png",
+						"assets/projects/viviana/viviana_22@3x.png"
+					]
+				},
+				{
+					"name": "viviana 23",
+					"resource_name": "viviana_23",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/viviana/viviana_23.png",
+						"assets/projects/viviana/viviana_23@2x.png",
+						"assets/projects/viviana/viviana_23@3x.png"
+					]
+				},
+				{
+					"name": "viviana 24",
+					"resource_name": "viviana_24",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/viviana/viviana_24.png",
+						"assets/projects/viviana/viviana_24@2x.png",
+						"assets/projects/viviana/viviana_24@3x.png"
+					]
+				},
+				{
+					"name": "viviana 25",
+					"resource_name": "viviana_25",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/viviana/viviana_25.png",
+						"assets/projects/viviana/viviana_25@2x.png",
+						"assets/projects/viviana/viviana_25@3x.png"
+					]
+				},
+				{
+					"name": "viviana 26",
+					"resource_name": "viviana_26",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/viviana/viviana_26.png",
+						"assets/projects/viviana/viviana_26@2x.png",
+						"assets/projects/viviana/viviana_26@3x.png"
+					]
+				}
+			]
+		},
+		{
+			"name": "Portraits",
+			"id": "portraits",
+			"description": "Placeholder description",
+			"date": "",
+			"type": "portrait",
+			"collection": [
+				{
+					"name": "artista 3",
+					"resource_name": "artista_3",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/portraits/artista_3.png",
+						"assets/projects/portraits/artista_3@2x.png",
+						"assets/projects/portraits/artista_3@3x.png"
+					]
+				},
+				{
+					"name": "artista 4",
+					"resource_name": "artista_4",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/portraits/artista_4.png",
+						"assets/projects/portraits/artista_4@2x.png",
+						"assets/projects/portraits/artista_4@3x.png"
+					]
+				},
+				{
+					"name": "artista 6",
+					"resource_name": "artista_6",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/portraits/artista_6.png",
+						"assets/projects/portraits/artista_6@2x.png",
+						"assets/projects/portraits/artista_6@3x.png"
+					]
+				},
+				{
+					"name": "cris 2",
+					"resource_name": "cris_2",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/portraits/cris_2.png",
+						"assets/projects/portraits/cris_2@2x.png",
+						"assets/projects/portraits/cris_2@3x.png"
+					]
+				},
+				{
+					"name": "cris 3",
+					"resource_name": "cris_3",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/portraits/cris_3.png",
+						"assets/projects/portraits/cris_3@2x.png",
+						"assets/projects/portraits/cris_3@3x.png"
+					]
+				},
+				{
+					"name": "cris 5",
+					"resource_name": "cris_5",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/portraits/cris_5.png",
+						"assets/projects/portraits/cris_5@2x.png",
+						"assets/projects/portraits/cris_5@3x.png"
+					]
+				},
+				{
+					"name": "joe 3",
+					"resource_name": "joe_3",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/portraits/joe_3.png",
+						"assets/projects/portraits/joe_3@2x.png",
+						"assets/projects/portraits/joe_3@3x.png"
+					]
+				},
+				{
+					"name": "joe 4",
+					"resource_name": "joe_4",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/portraits/joe_4.png",
+						"assets/projects/portraits/joe_4@2x.png",
+						"assets/projects/portraits/joe_4@3x.png"
+					]
+				},
+				{
+					"name": "joe 5",
+					"resource_name": "joe_5",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/portraits/joe_5.png",
+						"assets/projects/portraits/joe_5@2x.png",
+						"assets/projects/portraits/joe_5@3x.png"
+					]
+				},
+				{
+					"name": "karen 1",
+					"resource_name": "karen_1",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/portraits/karen_1.png",
+						"assets/projects/portraits/karen_1@2x.png",
+						"assets/projects/portraits/karen_1@3x.png"
+					]
+				},
+				{
+					"name": "karen 2",
+					"resource_name": "karen_2",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/portraits/karen_2.png",
+						"assets/projects/portraits/karen_2@2x.png",
+						"assets/projects/portraits/karen_2@3x.png"
+					]
+				},
+				{
+					"name": "karen 3",
+					"resource_name": "karen_3",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/portraits/karen_3.png",
+						"assets/projects/portraits/karen_3@2x.png",
+						"assets/projects/portraits/karen_3@3x.png"
+					]
+				}
+			]
+		},
+		{
+			"name": "Headshots",
+			"id": "headshots",
+			"description": "Placeholder description",
+			"date": "",
+			"type": "headshot",
+			"collection": [
+				{
+					"name": "raquel 1",
+					"resource_name": "raquel_1",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/headshots/raquel_1.png",
+						"assets/projects/headshots/raquel_1@2x.png",
+						"assets/projects/headshots/raquel_1@3x.png"
+					]
+				},
+				{
+					"name": "raquel 17",
+					"resource_name": "raquel_17",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/headshots/raquel_17.png",
+						"assets/projects/headshots/raquel_17@2x.png",
+						"assets/projects/headshots/raquel_17@3x.png"
+					]
+				},
+				{
+					"name": "raquel 19",
+					"resource_name": "raquel_19",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/headshots/raquel_19.png",
+						"assets/projects/headshots/raquel_19@2x.png",
+						"assets/projects/headshots/raquel_19@3x.png"
+					]
+				},
+				{
+					"name": "raquel 2",
+					"resource_name": "raquel_2",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/headshots/raquel_2.png",
+						"assets/projects/headshots/raquel_2@2x.png",
+						"assets/projects/headshots/raquel_2@3x.png"
+					]
+				},
+				{
+					"name": "raquel 3",
+					"resource_name": "raquel_3",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/headshots/raquel_3.png",
+						"assets/projects/headshots/raquel_3@2x.png",
+						"assets/projects/headshots/raquel_3@3x.png"
+					]
+				},
+				{
+					"name": "raquel 4",
+					"resource_name": "raquel_4",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/headshots/raquel_4.png",
+						"assets/projects/headshots/raquel_4@2x.png",
+						"assets/projects/headshots/raquel_4@3x.png"
+					]
+				},
+				{
+					"name": "raquel 5",
+					"resource_name": "raquel_5",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/headshots/raquel_5.png",
+						"assets/projects/headshots/raquel_5@2x.png",
+						"assets/projects/headshots/raquel_5@3x.png"
+					]
+				},
+				{
+					"name": "raquel 7",
+					"resource_name": "raquel_7",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/headshots/raquel_7.png",
+						"assets/projects/headshots/raquel_7@2x.png",
+						"assets/projects/headshots/raquel_7@3x.png"
+					]
+				},
+				{
+					"name": "sesion 13",
+					"resource_name": "sesion_13",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/headshots/sesion_13.png",
+						"assets/projects/headshots/sesion_13@2x.png",
+						"assets/projects/headshots/sesion_13@3x.png"
+					]
+				},
+				{
+					"name": "sesion 14",
+					"resource_name": "sesion_14",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/headshots/sesion_14.png",
+						"assets/projects/headshots/sesion_14@2x.png",
+						"assets/projects/headshots/sesion_14@3x.png"
+					]
+				},
+				{
+					"name": "sesion 2",
+					"resource_name": "sesion_2",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/headshots/sesion_2.png",
+						"assets/projects/headshots/sesion_2@2x.png",
+						"assets/projects/headshots/sesion_2@3x.png"
+					]
+				},
+				{
+					"name": "sesion 3",
+					"resource_name": "sesion_3",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/headshots/sesion_3.png",
+						"assets/projects/headshots/sesion_3@2x.png",
+						"assets/projects/headshots/sesion_3@3x.png"
+					]
+				},
+				{
+					"name": "sesion 4",
+					"resource_name": "sesion_4",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/headshots/sesion_4.png",
+						"assets/projects/headshots/sesion_4@2x.png",
+						"assets/projects/headshots/sesion_4@3x.png"
+					]
+				},
+				{
+					"name": "viviana cusi_1",
+					"resource_name": "viviana_cusi_1",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/headshots/viviana_cusi_1.png",
+						"assets/projects/headshots/viviana_cusi_1@2x.png",
+						"assets/projects/headshots/viviana_cusi_1@3x.png"
+					]
+				},
+				{
+					"name": "viviana cusi_17",
+					"resource_name": "viviana_cusi_17",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/headshots/viviana_cusi_17.png",
+						"assets/projects/headshots/viviana_cusi_17@2x.png",
+						"assets/projects/headshots/viviana_cusi_17@3x.png"
+					]
+				},
+				{
+					"name": "viviana cusi_3",
+					"resource_name": "viviana_cusi_3",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/headshots/viviana_cusi_3.png",
+						"assets/projects/headshots/viviana_cusi_3@2x.png",
+						"assets/projects/headshots/viviana_cusi_3@3x.png"
+					]
+				}
+			]
+		},
+		{
+			"name": "Daniel",
+			"id": "daniel",
+			"description": "Placeholder description",
+			"date": "",
+			"type": "portrait",
+			"collection": [
+				{
+					"name": "daniel 1",
+					"resource_name": "daniel_1",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/coffee/daniel_1.png",
+						"assets/projects/coffee/daniel_1@2x.png",
+						"assets/projects/coffee/daniel_1@3x.png"
+					]
+				},
+				{
+					"name": "daniel 2",
+					"resource_name": "daniel_2",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/coffee/daniel_2.png",
+						"assets/projects/coffee/daniel_2@2x.png",
+						"assets/projects/coffee/daniel_2@3x.png"
+					]
+				},
+				{
+					"name": "daniel 3",
+					"resource_name": "daniel_3",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/coffee/daniel_3.png",
+						"assets/projects/coffee/daniel_3@2x.png",
+						"assets/projects/coffee/daniel_3@3x.png"
+					]
+				},
+				{
+					"name": "daniel 4",
+					"resource_name": "daniel_4",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/coffee/daniel_4.png",
+						"assets/projects/coffee/daniel_4@2x.png",
+						"assets/projects/coffee/daniel_4@3x.png"
+					]
+				}
+			]
+		},
+		{
+			"name": "Bella Durmiente",
+			"id": "bella_durmiente",
+			"description": "Placeholder description",
+			"date": "",
+			"type": "personal",
+			"collection": [
+				{
+					"name": "bella durmiente_1",
+					"resource_name": "bella_durmiente_1",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/bella_durmiente/bella_durmiente_1.png",
+						"assets/projects/bella_durmiente/bella_durmiente_1@2x.png",
+						"assets/projects/bella_durmiente/bella_durmiente_1@3x.png"
+					]
+				},
+				{
+					"name": "bella durmiente_2",
+					"resource_name": "bella_durmiente_2",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/bella_durmiente/bella_durmiente_2.png",
+						"assets/projects/bella_durmiente/bella_durmiente_2@2x.png",
+						"assets/projects/bella_durmiente/bella_durmiente_2@3x.png"
+					]
+				},
+				{
+					"name": "bella durmiente_3",
+					"resource_name": "bella_durmiente_3",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/bella_durmiente/bella_durmiente_3.png",
+						"assets/projects/bella_durmiente/bella_durmiente_3@2x.png",
+						"assets/projects/bella_durmiente/bella_durmiente_3@3x.png"
+					]
+				},
+				{
+					"name": "bella durmiente_4",
+					"resource_name": "bella_durmiente_4",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/bella_durmiente/bella_durmiente_4.png",
+						"assets/projects/bella_durmiente/bella_durmiente_4@2x.png",
+						"assets/projects/bella_durmiente/bella_durmiente_4@3x.png"
+					]
+				}
+			]
+		},
+		{
+			"name": "Cáhuilt",
+			"id": "cahuilt",
+			"description": "\"... Todos habremos de irnos todos habremos de morir en la Tierra como una pintura nos iremos borrando. / ... We will all have to leave we will all die on Earth like a painting we will be erasing.\"",
+			"date": "",
+			"type": "personal",
+			"collection": [
+				{
+					"name": "humo2",
+					"resource_name": "humo2",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/cahuilt/humo2.png",
+						"assets/projects/cahuilt/humo2@2x.png",
+						"assets/projects/cahuilt/humo2@3x.png"
+					]
+				},
+				{
+					"name": "humo3",
+					"resource_name": "humo3",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/cahuilt/humo3.png",
+						"assets/projects/cahuilt/humo3@2x.png",
+						"assets/projects/cahuilt/humo3@3x.png"
+					]
+				},
+				{
+					"name": "humo4",
+					"resource_name": "humo4",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/cahuilt/humo4.png",
+						"assets/projects/cahuilt/humo4@2x.png",
+						"assets/projects/cahuilt/humo4@3x.png"
+					]
+				}
+			]
+		},
+		{
+			"name": "Marta",
+			"id": "marta",
+			"description": "Placeholder description",
+			"date": "",
+			"type": "photo-book",
+			"collection": [
+				{
+					"name": "marta 1",
+					"resource_name": "marta_1",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/marta/marta_1.png",
+						"assets/projects/marta/marta_1@2x.png",
+						"assets/projects/marta/marta_1@3x.png"
+					]
+				},
+				{
+					"name": "marta 2",
+					"resource_name": "marta_2",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/marta/marta_2.png",
+						"assets/projects/marta/marta_2@2x.png",
+						"assets/projects/marta/marta_2@3x.png"
+					]
+				},
+				{
+					"name": "marta proyecto",
+					"resource_name": "marta_proyecto",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/marta/marta_proyecto.png",
+						"assets/projects/marta/marta_proyecto@2x.png",
+						"assets/projects/marta/marta_proyecto@3x.png"
+					]
+				},
+				{
+					"name": "plural 16_efti",
+					"resource_name": "plural_16_efti",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/marta/plural_16_efti.png",
+						"assets/projects/marta/plural_16_efti@2x.png",
+						"assets/projects/marta/plural_16_efti@3x.png"
+					]
+				}
+			]
+		},
+		{
+			"name": "Narciso",
+			"id": "narciso",
+			"description": "Placeholder description",
+			"date": "",
+			"type": "personal",
+			"collection": [
+				{
+					"name": "1",
+					"resource_name": "1",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/narciso/1.png",
+						"assets/projects/narciso/1@2x.png",
+						"assets/projects/narciso/1@3x.png"
+					]
+				},
+				{
+					"name": "2",
+					"resource_name": "2",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/narciso/2.png",
+						"assets/projects/narciso/2@2x.png",
+						"assets/projects/narciso/2@3x.png"
+					]
+				},
+				{
+					"name": "3",
+					"resource_name": "3",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/narciso/3.png",
+						"assets/projects/narciso/3@2x.png",
+						"assets/projects/narciso/3@3x.png"
+					]
+				},
+				{
+					"name": "4",
+					"resource_name": "4",
+					"resource_extension": ".png",
+					"source_set": [
+						"assets/projects/narciso/4.png",
+						"assets/projects/narciso/4@2x.png",
+						"assets/projects/narciso/4@3x.png"
+					]
+				}
+			]
+		}
+	]
+}
